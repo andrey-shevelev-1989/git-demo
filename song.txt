@@ -4,8 +4,3 @@ strong
 field
 side
 destiny
-------------------
-
-
-feature
-second feature
