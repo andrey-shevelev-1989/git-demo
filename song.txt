@@ -1,4 +1,12 @@
 sword
 sheet
+<<<<<<< HEAD
 kurlyk
 nachalnik
+=======
+strong
+field
+
+form
+shield
+>>>>>>> 49b886426263e497f3486f529e2343042ae70798
